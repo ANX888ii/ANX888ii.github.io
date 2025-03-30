@@ -34,11 +34,11 @@ body.active {
 .no-js #experience-timeline > div h4 {
   font-size: 1.2em;
   font-weight: 300;
-  color: #7e8890;
+  color: black;
   margin: 0 0 15px 0;
 }
 .no-js #experience-timeline > div p {
-  color: #74808a;
+  color: black;
   font-size: 0.9em;
   margin: 0;
 }
@@ -146,7 +146,7 @@ footer {
 }
 .copyright p {
   margin: 0;
-  color: #74808a;
+  color: black;
 }
 .top {
   text-align: center;
@@ -162,7 +162,7 @@ footer {
   text-align: center;
 }
 .top i {
-  color: #74808a;
+  color: black;
 }
 .social {
   text-align: right;
@@ -178,7 +178,7 @@ footer {
 }
 .social a {
   display: block;
-  color: #74808a;
+  color: black;
   padding: 10px;
 }
 .social a:hover {
@@ -313,10 +313,10 @@ footer {
   border-bottom: 1px solid #dcd9d9;
 }
 #about h2 {
-  color: #374054;
+  color: black;
 }
 #about p {
-  color: #74808a;
+  color: black;
   margin: 0;
 }
 #experience {
@@ -325,7 +325,7 @@ footer {
   border-bottom: 1px solid #dcd9d9;
 }
 #experience h2 {
-  color: #374054;
+  color: black;
 }
 #experience-timeline {
   margin: 30px auto 0 auto;
@@ -365,18 +365,18 @@ footer {
 .vtimeline-content h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #374054;
+  color: black;
   display: inline-block;
   margin: 0;
 }
 .vtimeline-content h4 {
   font-size: 1.2em;
   font-weight: 300;
-  color: #7e8890;
+  color: black;
   margin: 0 0 15px 0;
 }
 .vtimeline-content p {
-  color: #74808a;
+  color: black;
   font-size: 0.9em;
   margin: 0;
 }
@@ -409,7 +409,7 @@ footer {
   left: 0;
   top: 10px;
   font-weight: 300;
-  color: #374054;
+  color: black;
 }
 #education {
   padding: 50px 15px 20px 15px;
@@ -417,7 +417,7 @@ footer {
   text-align: center;
 }
 #education h2 {
-  color: #374054;
+  color: black;
   margin-bottom: 50px;
 }
 .education-block {
@@ -431,14 +431,14 @@ footer {
   font-weight: 500;
   float: left;
   margin: 0;
-  color: #374054;
+  color: black;
 }
 .education-block span {
-  color: #74808a;
+  color: black;
   float: right;
 }
 .education-block h4 {
-  color: #74808a;
+  color: black;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
@@ -446,7 +446,7 @@ footer {
 .education-block p,
 .education-block ul {
   margin: 0;
-  color: #74808a;
+  color: black;
   font-size: 0.9em;
 }
 .education-block ul {
@@ -458,7 +458,7 @@ footer {
   text-align: center;
 }
 #projects h2 {
-  color: #374054;
+  color: black;
   margin-bottom: 50px;
 }
 .project {
@@ -486,11 +486,11 @@ footer {
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
-  color: #374054;
+  color: black;
   margin: 0 0 15px 0;
 }
 .project-info p {
-  color: #74808a;
+  color: black;
   margin: 0 0 15px 0;
   font-size: 0.9em;
 }
@@ -508,7 +508,7 @@ footer {
   text-align: center;
 }
 #skills h2 {
-  color: #374054;
+  color: black;
   margin-bottom: 50px;
 }
 #skills ul {
@@ -521,7 +521,7 @@ footer {
   display: inline-block;
   margin: 7px;
   padding: 5px 10px;
-  color: #374054;
+  color: black;
   background: #e4e4ea;
   list-style: none;
   cursor: default;
@@ -601,7 +601,7 @@ footer {
   border-top: 1px solid #dcd9d9;
 }
 .optional-section h2 {
-  color: #374054;
+  color: black;
 }
 .optional-section-block {
   max-width: 700px;
@@ -614,10 +614,10 @@ footer {
 .optional-section-block h3 {
   font-weight: 500;
   margin: 0 0 15px 0;
-  color: #374054;
+  color: black;
 }
 .optional-section-block h4 {
-  color: #74808a;
+  color: black;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
@@ -625,7 +625,7 @@ footer {
 .optional-section-block p,
 .optional-section-block ul {
   margin: 0 0 15px 0;
-  color: #74808a;
+  color: black;
   font-size: 0.9em;
 }
 .optional-section-block ul {
