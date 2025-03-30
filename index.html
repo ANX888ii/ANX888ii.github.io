@@ -282,6 +282,7 @@
               <img
                 src="images/textual-data.jpg"
                 style="width: 310px; height: 300px"
+                alt="Project image of top 20 IMDB features by logistic regression"
               />
             </div>
             <!-- End .project-image -->
@@ -310,6 +311,7 @@
               <img
                 src="images/cancer-data.jpg"
                 style="height: 310px; width: 300px"
+                alt="Project image of accuracy chart"
               />
             </div>
             <!-- End .project-image -->
@@ -337,6 +339,7 @@
               <img
                 src="images/sign-language.jpg"
                 style="width: 310px; height: 300px"
+                alt="Project image of sign-language representing different English characters"
               />
             </div>
             <!-- End .project-image -->
@@ -363,6 +366,7 @@
               <img
                 src="images/AI-survival.png"
                 style="width: 310px; height: 300px"
+                alt="Project image of AI colosseum grid"
               />
             </div>
             <!-- End .project-image -->
@@ -388,6 +392,7 @@
               <img
                 src="images/mini-chess-image.jpg"
                 style="width: 310px; height: 300px"
+                alt="Project image of mini chess"
               />
             </div>
             <!-- End .project-image -->
@@ -412,13 +417,14 @@
               <img
                 src="images/website.jpg"
                 style="width: 310px; height: 300px"
+                alt="Project image of personal website"
               />
             </div>
             <!-- End .project-image -->
             <div class="project-info">
               <h3>
                 Personal Website (In Progress
-                <img src="images/in-progress-icon.png" />)
+                <img src="images/in-progress-icon.png" alt="Loading icon" />)
               </h3>
               <p>
                 Developed a personal portfolio website using HTML, CSS, and
@@ -481,18 +487,33 @@
             name="_subject"
             value="Contact request from personal website"
           />
-          <input name="name" placeholder="Your Name" required />
+
+          <input
+            id="name"
+            name="name"
+            placeholder="Your name"
+            required
+            aria-label="Your name"
+          />
+
           <input
             type="email"
             name="_replyto"
-            placeholder="Your Email"
+            placeholder="Your email"
             required
+            aria-label="Your email"
           />
-          <input name="subject" placeholder="Your Subject" required />
+          <input
+            name="subject"
+            placeholder="Your subject"
+            required
+            aria-label="Your subject"
+          />
           <textarea
             name="message"
-            placeholder="Your Message"
+            placeholder="Your message"
             required
+            aria-label="Your message"
           ></textarea>
           <button type="submit">Send Message</button>
         </form>
