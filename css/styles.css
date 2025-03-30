@@ -84,7 +84,7 @@ header li {
 }
 header a {
   display: block;
-  color: #78bbc0;
+  color: #55cad0;
   padding: 10px;
 }
 header a:hover {
@@ -94,7 +94,7 @@ header a:hover {
   border-radius: 4px;
 }
 header a:focus {
-  color: #78bbc0;
+  color: #55cad0;
   text-decoration: none;
 }
 header.active {
@@ -113,7 +113,7 @@ header.sticky {
   position: fixed;
   right: 15px;
   top: 10px;
-  color: #78bbc0;
+  color: #55cad0;
   font-size: 1.5em;
   z-index: 20;
   padding: 0 7px;
@@ -129,7 +129,7 @@ header.sticky {
   padding-right: 15px;
   padding-top: 10px;
   cursor: pointer;
-  color: #78bbc0;
+  color: #55cad0;
 }
 #mobile-menu-close span {
   font-size: 0.5em;
@@ -182,7 +182,7 @@ footer {
   padding: 10px;
 }
 .social a:hover {
-  color: #78bbc0;
+  color: #55cad0;
 }
 .btn-rounded-white {
   display: inline-block;
@@ -193,7 +193,7 @@ footer {
   transition: 0.5s ease all;
 }
 .btn-rounded-white:hover {
-  color: #78bbc0;
+  color: #55cad0;
   background: #fff;
   text-decoration: none;
 }
@@ -219,7 +219,7 @@ footer {
   left: 0;
   right: 0;
   margin: 0 auto;
-  background: #78bbc0;
+  background: #55cad0;
 }
 .background-alt {
   background: #f2f2f5;
@@ -268,7 +268,7 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  background: #78bbc0;
+  background: #55cad0;
   opacity: 0.6;
   z-index: 1;
 }
@@ -341,7 +341,7 @@ footer {
   right: auto;
   height: 100%;
   width: 3px;
-  background: #78bbc0;
+  background: #55cad0;
   z-index: 0;
 }
 #experience-timeline:after {
@@ -349,8 +349,8 @@ footer {
   content: "";
   width: 3px;
   height: 40px;
-  background: #78bbc0;
-  background: linear-gradient(to bottom, #78bbc0, rgba(52, 152, 219, 0));
+  background: #55cad0;
+  background: linear-gradient(to bottom, #55cad0, rgba(52, 152, 219, 0));
   top: 100%;
   left: 303px;
 }
@@ -391,7 +391,7 @@ footer {
   color: #fff;
   width: 50px;
   height: 50px;
-  background: #78bbc0;
+  background: #55cad0;
   border-radius: 50%;
   float: left;
   z-index: 99;
@@ -529,7 +529,7 @@ footer {
 }
 #contact {
   padding: 50px 15px;
-  background: #78bbc0;
+  background: #55cad0;
   text-align: center;
 }
 #contact h2 {
@@ -587,7 +587,7 @@ footer {
   border-radius: 4px;
   padding: 5px 10px;
   border: none;
-  color: #78bbc0;
+  color: #55cad0;
   font-weight: 700;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
   transition: 0.5s ease all;
