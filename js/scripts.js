@@ -22,7 +22,7 @@
       {
         scrollTop: scrollDistance + "px",
       },
-      Math.abs(window.pageYOffset - $(heading).offset().top) / 1
+      Math.abs(window.pageYOffset - $(heading).offset().top) / 1,
     );
 
     // Hide the menu once clicked if mobile
@@ -37,7 +37,7 @@
       {
         scrollTop: 0,
       },
-      500
+      500,
     );
   });
 
@@ -48,7 +48,7 @@
       {
         scrollTop: scrollDistance + "px",
       },
-      500
+      500,
     );
   });
 
@@ -62,14 +62,14 @@
       $(this)
         .addClass("vtimeline-content")
         .wrap(
-          '<div class="vtimeline-point"><div class="vtimeline-block"></div></div>'
+          '<div class="vtimeline-point"><div class="vtimeline-block"></div></div>',
         );
     });
 
     // Add icons to each block
     $this.find(".vtimeline-point").each(function () {
       $(this).prepend(
-        '<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>'
+        '<div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div>',
       );
     });
 
