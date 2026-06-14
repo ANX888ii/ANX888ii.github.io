@@ -32,6 +32,8 @@
   "ta_job1": "Assisted over 150 students in <em>COMP330: Theory of Computation</em>, covering topics such as finite automata, regular and context-free languages, pushdown automata, models of computation, computability theory, undecidability, and reduction techniques.",
   "ta_job2": "Graded assignments and exams, providing constructive feedback to students.",
   "ta_job3": "Delivered one-on-one guidance during office hours to help students master complex theoretical concepts.",
+  "hc_data_job1": "Maintained data analytics reports and Excel trackers to monitor outreach activities and social media performance for the new Canadian dental care plan (CDCP).",
+  "hc_data_job2": "Developed data dashboards using Python and R to perform data statistical analysis and help refine policy documents.",
   "hc_dev_job1": "Developed online learning course platforms <em>Nutrition Labelling</em>, <em>Transportation of Dangerous Goods</em>, and <em>Workplace Hazardous Materials Information Systems</em> of PHAC Training Portal (<a href=\"https://training-formation.phac-aspc.gc.ca/?lang=en\" target=\"_blank\" ><u>https://training-formation.phac-aspc.gc.ca/?lang=en</u></a>) using HTML, CSS, JavaScript, and Python.",
   "hc_dev_job2": "Identified and solved bugs on the online learning platforms. "
 }
