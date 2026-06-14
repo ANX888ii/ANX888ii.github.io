@@ -43,5 +43,6 @@
   "your_name": "Votre nom",
   "your_email": "Votre courriel",
   "your_subject": "Votre sujet",
-  "your_message": "Votre message"
+  "your_message": "Votre message",
+  "in_progress": "En cours..."
 }
