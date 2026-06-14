@@ -31,5 +31,7 @@
   "phac_dev_job2": "Améliorer l'interactivité et l'accessibilité de l’application, les rendant plus accessibles et inclusives pour les personnes en situation de handicap.",
   "ta_job1": "Aider plus de 150 étudiants avec le matériel du cours <em>COMP330 Théorie de la computation</em>, incluant des sujets tels que les automates finis, les langages réguliers, les langages hors-contexte, les automates à pile, les modèles de calcul, la théorie de la calculabilité et l'indécidabilité.",
   "ta_job2": "Corriger les devoirs et les examens, en fournissant des commentaires constructifs aux étudiants.",
-  "ta_job3": "Fournir un encadrement individuel lors des heures de bureau pour aider les étudiants à maîtriser des concepts théoriques complexes."
+  "ta_job3": "Fournir un encadrement individuel lors des heures de bureau pour aider les étudiants à maîtriser des concepts théoriques complexes.",
+  "hc_dev_job1": "Développer les plateformes de cours en ligne <em>Étiquetage nutritionnel</em>, <em>Transport des marchandises dangereuses</em> et <em>Système d’information sur les matières dangereuses utilisées au travail</em> du Portail de formation de l’ASPC (<a href=\"https://training-formation.phac-aspc.gc.ca/?lang=fr\" target=\"_blank\" ><u>https://training-formation.phac-aspc.gc.ca/?lang=fr</u></a>) en utilisant HTML, CSS, JavaScript et Python. ",
+  "hc_dev_job2": "Identifier et résoudre des bugs sur les plateformes en ligne."
 }
