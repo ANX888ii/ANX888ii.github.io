@@ -27,5 +27,6 @@
   "CE_job1": "Analyze and investigate hundreds of health claims, specializing in paramedical services (physiotherapy, podiatry, psychology, chiropractic, massage therapy, and allied health) and vision care, ensuring compliance with policy guidelines.",
   "CE_job2": "Interpret benefit contracts and medical documentation to identify billing discrepancies, errors, and potential fraud risks.",
   "CE_job3": "Provide bilingual (French/English) support to clients and providers while maintaining productivity and quality targets in a high-volume environment.",
-  "phac_dev_job1": "Developed an online learning app for the Electronic Traveller Health Information (eTHI) project’s CRM and the K-12 adventure course <em>Tori’s Travels</em>, using HTML, CSS, JavaScript, and Python, serving hundreds of learners per course."
+  "phac_dev_job1": "Developed an online learning app for the Electronic Traveller Health Information (eTHI) project’s CRM and the K-12 adventure course <em>Tori’s Travels</em>, using HTML, CSS, JavaScript, and Python, serving hundreds of learners per course.",
+  "phac_dev_job2": "Enhanced the interactivity and accessibility of the learning app, making it more user-friendly and inclusive for individuals with disabilities."
 }
