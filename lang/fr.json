@@ -26,5 +26,6 @@
   "lab_tech": "Technicienne de laboratoire en pharmacie",
   "CE_job1": "Analyser et investiguer des centaines de réclamations de soins de santé, en se spécialisant dans les services paramédicaux (physiothérapie, psychologie et services connexes) et les soins oculaires, en assurant la conformité aux politiques.",
   "CE_job2": "Interpréter les contrats d’assurance et la documentation médicale afin d’identifier les irrégularités de facturation, les erreurs et les indices de fraude potentielle.",
-  "CE_job3": "Offrir un soutien bilingue (français/anglais) aux clients et aux fournisseurs tout en respectant les objectifs de productivité et de qualité dans un environnement à fort volume."
+  "CE_job3": "Offrir un soutien bilingue (français/anglais) aux clients et aux fournisseurs tout en respectant les objectifs de productivité et de qualité dans un environnement à fort volume.",
+  "phac_dev_job1": "Développer l’application de formation pour le nouveau CRM du projet d’information numérique de santé des voyageurs et le cours d’aventure K-12 <em>Les voyages de Tori</em>, utilisés par des centaines d’étudiants par cours, en utilisant HTML, CSS, JavaScript et Python."
 }
