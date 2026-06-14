@@ -45,5 +45,6 @@
   "your_subject": "Votre sujet",
   "your_message": "Votre message",
   "in_progress": "En cours...",
-  "personal_website_in_progress": "Site personnel (en cours"
+  "personal_website_in_progress": "Site personnel (en cours",
+  "personal_website_description": "J’ai développé un site web de portfolio personnel en utilisant HTML, CSS et JavaScript afin de présenter mes compétences et mes expériences. Les visiteurs peuvent découvrir des informations détaillées sur moi et mes projets à travers une interface engageante et conviviale."
 }
