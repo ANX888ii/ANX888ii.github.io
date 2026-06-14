@@ -28,5 +28,8 @@
   "CE_job2": "Interpréter les contrats d’assurance et la documentation médicale afin d’identifier les irrégularités de facturation, les erreurs et les indices de fraude potentielle.",
   "CE_job3": "Offrir un soutien bilingue (français/anglais) aux clients et aux fournisseurs tout en respectant les objectifs de productivité et de qualité dans un environnement à fort volume.",
   "phac_dev_job1": "Développer l’application de formation pour le nouveau CRM du projet d’information numérique de santé des voyageurs et le cours d’aventure K-12 <em>Les voyages de Tori</em>, utilisés par des centaines d’étudiants par cours, en utilisant HTML, CSS, JavaScript et Python.",
-  "phac_dev_job2": "Améliorer l'interactivité et l'accessibilité de l’application, les rendant plus accessibles et inclusives pour les personnes en situation de handicap."
+  "phac_dev_job2": "Améliorer l'interactivité et l'accessibilité de l’application, les rendant plus accessibles et inclusives pour les personnes en situation de handicap.",
+  "ta_job1": "Aider plus de 150 étudiants avec le matériel du cours <em>COMP330 Théorie de la computation</em>, incluant des sujets tels que les automates finis, les langages réguliers, les langages hors-contexte, les automates à pile, les modèles de calcul, la théorie de la calculabilité et l'indécidabilité.",
+  "ta_job2": "Corriger les devoirs et les examens, en fournissant des commentaires constructifs aux étudiants.",
+  "ta_job3": "Fournir un encadrement individuel lors des heures de bureau pour aider les étudiants à maîtriser des concepts théoriques complexes."
 }

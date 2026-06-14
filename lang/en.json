@@ -28,5 +28,8 @@
   "CE_job2": "Interpret benefit contracts and medical documentation to identify billing discrepancies, errors, and potential fraud risks.",
   "CE_job3": "Provide bilingual (French/English) support to clients and providers while maintaining productivity and quality targets in a high-volume environment.",
   "phac_dev_job1": "Developed an online learning app for the Electronic Traveller Health Information (eTHI) project’s CRM and the K-12 adventure course <em>Tori’s Travels</em>, using HTML, CSS, JavaScript, and Python, serving hundreds of learners per course.",
-  "phac_dev_job2": "Enhanced the interactivity and accessibility of the learning app, making it more user-friendly and inclusive for individuals with disabilities."
+  "phac_dev_job2": "Enhanced the interactivity and accessibility of the learning app, making it more user-friendly and inclusive for individuals with disabilities.",
+  "ta_job1": "Assisted over 150 students in <em>COMP330: Theory of Computation</em>, covering topics such as finite automata, regular and context-free languages, pushdown automata, models of computation, computability theory, undecidability, and reduction techniques.",
+  "ta_job2": "Graded assignments and exams, providing constructive feedback to students.",
+  "ta_job3": "Delivered one-on-one guidance during office hours to help students master complex theoretical concepts."
 }
