@@ -778,3 +778,9 @@ footer {
   transform: scale(1.02);
   font-weight: 700;
 }
+
+.title-icon-beside {
+  width: 3.5rem;
+  height: auto;
+  vertical-align: middle;
+}
