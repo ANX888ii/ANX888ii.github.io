@@ -40,5 +40,8 @@
   "pharm_tech_job2": "Référer les patients au pharmacien lorsque nécessaire afin d’assurer des soins précis et rapides.",
   "pharm_tech_job3": "Gérer le réapprovisionnement et l’organisation d’environ 1000 médicaments, en maintenant l’exactitude et la disponibilité de l’inventaire.",
   "send_message": "Envoyer un message",
-  "your_name": "Votre nom"
+  "your_name": "Votre nom",
+  "your_email": "Votre courriel",
+  "your_subject": "Votre sujet",
+  "your_message": "Votre message"
 }

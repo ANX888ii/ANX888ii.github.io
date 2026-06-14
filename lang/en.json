@@ -40,5 +40,8 @@
   "pharm_tech_job2": "Referred patients to the pharmacist when necessary to ensure accurate and timely care.",
   "pharm_tech_job3": "Managed restocking and organization of about 1000 medications, maintaining inventory accuracy and availability.",
   "send_message": "Send Message",
-  "your_name": "Your Name"
+  "your_name": "Your Name",
+  "your_email": "Your Email",
+  "your_subject": "Your Subject",
+  "your_message": "Your Message"
 }
