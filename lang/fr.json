@@ -35,5 +35,8 @@
   "hc_data_job1": "Maintenir des rapports d'analyse de données et des tableaux Excel pour surveiller les activités de sensibilisation et la performance des réseaux sociaux pour le nouveau Régime canadien de soins dentaires (RCDS).",
   "hc_data_job2": "Développer des tableaux de bord en utilisant Python et R pour effectuer des analyses de données statistiques afin d’aider à la rédaction des documents politiques.",
   "hc_dev_job1": "Développer les plateformes de cours en ligne <em>Étiquetage nutritionnel</em>, <em>Transport des marchandises dangereuses</em> et <em>Système d’information sur les matières dangereuses utilisées au travail</em> du Portail de formation de l’ASPC (<a href=\"https://training-formation.phac-aspc.gc.ca/?lang=fr\" target=\"_blank\" ><u>https://training-formation.phac-aspc.gc.ca/?lang=fr</u></a>) en utilisant HTML, CSS, JavaScript et Python. ",
-  "hc_dev_job2": "Identifier et résoudre des bugs sur les plateformes en ligne."
+  "hc_dev_job2": "Identifier et résoudre des bugs sur les plateformes en ligne.",
+  "pharm_tech_job1": "Servir environ 60 patients chaque jour en personne et par téléphone, en entrant et préparant les prescriptions dans le logiciel de la pharmacie.",
+  "pharm_tech_job2": "Référer les patients au pharmacien lorsque nécessaire afin d’assurer des soins précis et rapides.",
+  "pharm_tech_job3": "Gérer le réapprovisionnement et l’organisation d’environ 1000 médicaments, en maintenant l’exactitude et la disponibilité de l’inventaire."
 }

@@ -35,5 +35,8 @@
   "hc_data_job1": "Maintained data analytics reports and Excel trackers to monitor outreach activities and social media performance for the new Canadian dental care plan (CDCP).",
   "hc_data_job2": "Developed data dashboards using Python and R to perform data statistical analysis and help refine policy documents.",
   "hc_dev_job1": "Developed online learning course platforms <em>Nutrition Labelling</em>, <em>Transportation of Dangerous Goods</em>, and <em>Workplace Hazardous Materials Information Systems</em> of PHAC Training Portal (<a href=\"https://training-formation.phac-aspc.gc.ca/?lang=en\" target=\"_blank\" ><u>https://training-formation.phac-aspc.gc.ca/?lang=en</u></a>) using HTML, CSS, JavaScript, and Python.",
-  "hc_dev_job2": "Identified and solved bugs on the online learning platforms. "
+  "hc_dev_job2": "Identified and solved bugs on the online learning platforms.",
+  "pharm_tech_job1": "Assisted approximately 60 patients daily in person and over the phone, entering and preparing prescriptions using pharmacy software.",
+  "pharm_tech_job2": "Referred patients to the pharmacist when necessary to ensure accurate and timely care.",
+  "pharm_tech_job3": "Managed restocking and organization of about 1000 medications, maintaining inventory accuracy and availability."
 }
