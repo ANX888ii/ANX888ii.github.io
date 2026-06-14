@@ -39,5 +39,6 @@
   "pharm_tech_job1": "Servir environ 60 patients chaque jour en personne et par téléphone, en entrant et préparant les prescriptions dans le logiciel de la pharmacie.",
   "pharm_tech_job2": "Référer les patients au pharmacien lorsque nécessaire afin d’assurer des soins précis et rapides.",
   "pharm_tech_job3": "Gérer le réapprovisionnement et l’organisation d’environ 1000 médicaments, en maintenant l’exactitude et la disponibilité de l’inventaire.",
-  "send_message": "Envoyer un message"
+  "send_message": "Envoyer un message",
+  "your_name": "Votre nom"
 }
