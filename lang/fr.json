@@ -48,5 +48,8 @@
   "personal_website_in_progress": "Site personnel (en cours",
   "personal_website_description": "J’ai développé un site web de portfolio personnel en utilisant HTML, CSS et JavaScript afin de présenter mes compétences et mes expériences. Les visiteurs peuvent découvrir des informations détaillées sur moi et mes projets à travers une interface engageante et conviviale.",
   "master_coursework": "Cours pertinents : Natural Language Processing, Cryptography and Data Security, Computational Biology Methods and Research, Reinforcement Learning, Natural Language Understanding with Deep Learning, Intelligent Software Systems, etc.",
-  "bachelor_coursework": "Cours pertinents : Applied Machine Learning, Applied Regression, Algorithms and Data Structures, Artificial Intelligence, Theory of Computation, Algorithm Design, Numerical Computing, Generalized Linear Models, Programming Lang & Paradigms, Advanced Calculus, etc."
+  "bachelor_coursework": "Cours pertinents : Applied Machine Learning, Applied Regression, Algorithms and Data Structures, Artificial Intelligence, Theory of Computation, Algorithm Design, Numerical Computing, Generalized Linear Models, Programming Lang & Paradigms, Advanced Calculus, etc.",
+  "english": "Anglais",
+  "french": "Français",
+  "mandarin": "Mandarin"
 }
