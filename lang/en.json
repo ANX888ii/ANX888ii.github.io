@@ -46,5 +46,7 @@
   "your_message": "Your Message",
   "in_progress": "In Progress...",
   "personal_website_in_progress": "Personal Website (In Progress",
-  "personal_website_description": "Developed a personal portfolio website using HTML, CSS, and JavaScript to present my skills and experiences. Visitors can explore detailed information about me and my projects in an engaging and user-friendly interface."
+  "personal_website_description": "Developed a personal portfolio website using HTML, CSS, and JavaScript to present my skills and experiences. Visitors can explore detailed information about me and my projects in an engaging and user-friendly interface.",
+  "master_coursework": "Relevant Coursework: Natural Language Processing, Cryptography and Data Security, Computational Biology Methods and Research, Reinforcement Learning, Natural Language Understanding with Deep Learning, Intelligent Software Systems, etc.",
+  "bachelor_coursework": "Relevant Coursework: Applied Machine Learning, Applied Regression, Algorithms and Data Structures, Artificial Intelligence, Theory of Computation, Algorithm Design, Numerical Computing, Generalized Linear Models, Programming Lang & Paradigms, Advanced Calculus, etc."
 }
